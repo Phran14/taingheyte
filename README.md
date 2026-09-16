@@ -161,22 +161,41 @@ So sánh 3 bộ dữ liệu cùng điều kiện: **Raw** (không xử lý) / **
 ## Tài liệu tham khảo
 
 [1] Frequency Extraction of Phonocardiogram Signal using Fourier Transform — Jurnal Elektro (ejournal.atmajaya.ac.id)
+
 [2] Deep Learning Based Classification of Unsegmented Phonocardiogram Spectrograms Leveraging Transfer Learning — arXiv:2012.08406
+
 [3] A Comprehensive Survey on Heart Sound Analysis in the Deep Learning Era — arXiv:2301.09362
+
 [4] Heart Sound Segmentation Using Deep Learning Techniques — arXiv:2406.05653
+
 [5] Optimization and implementation of the wavelet based algorithms for embedded biomedical signal processing — ComSIS Vol. 10, No. 1 (2013)
+
 [6] Microphone Arrays: A Tutorial — Iain McCowan (2001)
+
 [7] Band-limited beamforming microphone array — US Patent 10397697
+
 [8] Signal processing methods and systems for adaptive beam forming — US Patent 12075217
+
 [9] Electronic stethoscope device with noise cancellation — US Patent 11741931
+
 [10] Noise-reducing stethoscope — US Patent 5492129A
+
 [11] Comparison of LMS and NLMS algorithm with the using of 4 Linear Microphone Array for Speech Enhancement — European Journal of Engineering and Technology Research (2017)
+
 [12] Best microphone to detect heartbeat — All About Circuits forum
+
 [13] Sthetoscop digital using electret condenser mic (ECM) — All About Circuits forum
+
 [14] Digital stethoscope and monitoring instrument — US Patent Application US20080013747A1
+
 [15] Heart sound sensing through MEMS Microphone — ResearchGate
+
 [16] Wearable technologies for joint health assessment — US Patent 11071494
+
 [17] Electronic Stethoscope, Electret condenser mic distortion issues — Electro-Tech-Online forum
+
 [18] A First Step Towards On-Device Monitoring of Body Sounds in the Wild — arXiv:2008.05370
+
 [19] ESP-DSP — official DSP library, Espressif (GitHub: espressif/esp-dsp)
+
 [20] ESP-DSP spectrum_box_lite example (ESP32-S3-BOX-Lite, FFT trên 2 mic) — components.espressif.com
